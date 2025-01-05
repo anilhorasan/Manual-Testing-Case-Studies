@@ -1,7 +1,6 @@
 # Green Kart Ecommerce Website - Manual Testing 🚀
 
 Welcome to the **Green Kart Ecommerce Website** testing repository! 🌱🛒
-This project is part of my manual testing portfolio and showcases my skills in testing eCommerce websites. 
 
 Green Kart is one of the test websites provided in **Rahul Shetty's Software Testing** course, so it is designed with intentional bugs to help testers practice finding and reporting issues. This repository contains various testing artifacts to give you a comprehensive view of the testing process.
 
