@@ -59,7 +59,7 @@ Manual-Testing-Case-Studies/
 ## How to Use
 1. Clone the repository:
 ```plaintext
-git clone https://github.com/herbisey/manual-testing-case-studies.git
+git clone https://github.com/anilhorasan/manual-testing-case-studies.git
 cd manual-testing-case-studies
 ```
 2. Navigate to the desired project folder for specific details.
